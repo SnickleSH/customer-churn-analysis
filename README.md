@@ -94,7 +94,7 @@ The project applies **machine learning models** to predict customer churn.
 - **Confusion Matrix**: [[38063 0] [ 70 50034]]
 - **Final Model Selection**: **XGBoost was chosen as the final model due to its superior performance.**  
 
-### **3. Logistic Regression Model (Baseline)**  
+### **5. Logistic Regression Model (Baseline)**  
 - **Performance**:  
 - Accuracy: **89.64%**  
 - AUC-ROC Score: **0.9596**  
